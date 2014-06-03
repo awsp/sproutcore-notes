@@ -9,7 +9,9 @@ SC.ObjectController
 
 
 SC.State
-- `enterState`, `function`, `enterState: function() {}`, (Automatically called by SC)
-- `exitState`, `function`, `exitState: function() {}`, (Automatically called by SC)
-- `gotoState`, `function`, `this.gotoState()`
+- `enterState`, `function`, `enterState: function() {}`, (Called by SC, override to use. )
+- `exitState`, `function`, `exitState: function() {}`, (Called by SC, override to use. )
+- `gotoState`, `function`, `this.gotoState(state, context)`
+  - String `state`, `Name of the state`
+  - Mixed `context`, `Context`
 
