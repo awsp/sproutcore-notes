@@ -14,4 +14,8 @@ SC.State
 - `gotoState`, `function`, `this.gotoState(state, context)`
   - String `state`, Name of the state
   - Mixed `context`, Context
+- `initializeSubstate`, `various`, `initializeSubstate: [String|SC.State]`, (Default Empty, Override to use. )
 
+
+SC.Statechart
+- `trace`, `property`, `trace: [YES|NO]`
