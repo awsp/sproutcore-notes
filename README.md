@@ -9,7 +9,7 @@ SC.ObjectController
 
 
 SC.State
-- `enterState`, `callback`, `enterState: function() {}`, (Automatically called by SC)
-- `exitState`, `callback`, `exitState: function() {}`, (Automatically called by SC)
+- `enterState`, `function`, `enterState: function() {}`, (Automatically called by SC)
+- `exitState`, `function`, `exitState: function() {}`, (Automatically called by SC)
 - `gotoState`, `function`, `this.gotoState()`
 
