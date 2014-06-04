@@ -19,7 +19,7 @@ SC.State
 
 
 SC.Statechart
-- `trace`, `property`, `trace: [YES|NO]`
+- `trace`, `property`, `trace: [YES|NO]`, (Print trace messages in console. )
 
 
 
