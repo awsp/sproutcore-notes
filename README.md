@@ -36,3 +36,5 @@ SC.Statechart
 ```
 $ sproutcore build app_name [--mode=my_mode]
 ```
+
+Destination at `tmp/build/static/myapp/en/{HASH}/`
