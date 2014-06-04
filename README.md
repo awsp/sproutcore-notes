@@ -30,7 +30,7 @@ SC.Statechart
 
 
 ### Deployment
-==============
+---------------
 ```
 $ sproutcore build app_name [--mode=my_mode]
 ```
