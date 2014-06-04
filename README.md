@@ -37,4 +37,5 @@ SC.Statechart
 $ sproutcore build app_name [--mode=my_mode]
 ```
 
-Destination at `tmp/build/static/myapp/en/{HASH}/`
+- Destination at `tmp/build/static/myapp/en/{HASH}/`
+- Use `--mode` to specific which mode/configuration it will use. 
