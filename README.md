@@ -6,6 +6,7 @@ SC.ArrayController
 
 
 SC.ObjectController
+- `contentBinding`, `various(?)`, `contentBinding: "booksController.selection"`
 
 
 SC.State
