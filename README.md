@@ -22,6 +22,10 @@ SC.Statechart
 - `trace`, `property`, `trace: [YES|NO]`
 
 
+
+------------
+
+
 ### Utilities
 - `static_url`, `SC Helper`, (Non-JS function, SC-specified helper, Used to load static images. )
   - `background: static_url('images/message.png') 0 0 no-repeat;`
