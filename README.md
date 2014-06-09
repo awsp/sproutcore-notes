@@ -5,6 +5,7 @@ SC.ArrayController
 - `status`, `property`, `this.get('status')`
 - `content`, `property`, `this.get('content')`, (Important property, holds all data)
 - `selection`, `property`, (Important property, current selected object. )
+- `arrangedObjects`, `property`, (Important property, similar to content, but in the processed way such as orderBy)
 
 
 SC.ObjectController
